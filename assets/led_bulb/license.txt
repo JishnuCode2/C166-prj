@@ -1,0 +1,11 @@
+Model Information:
+* title:	Led Bulb
+* source:	https://sketchfab.com/3d-models/led-bulb-dad5418b03ea40a3ada62a285b1d7640
+* author:	Neonlight (https://sketchfab.com/neonlight)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Led Bulb" (https://sketchfab.com/3d-models/led-bulb-dad5418b03ea40a3ada62a285b1d7640) by Neonlight (https://sketchfab.com/neonlight) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
